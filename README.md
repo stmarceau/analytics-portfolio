@@ -20,5 +20,5 @@ Throughout many years of computer programming I acquired in depth experience wit
 * Mongodb
 * Excel / vba
 
-# analytics-portfolio
+# Portfolio
 Analytics project portfolio
